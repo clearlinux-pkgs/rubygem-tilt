@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-03-01 17:06:03.582395
+# {'>=1.3', 'development', '<3', '~>2.0.0', '>=0', '<2.1', '>=1.3.3', '>=1.1'}
+watchurl=https://rubygems.org/gems/tilt/versions/([0-2]\.0(\.[0-9]{1,2})?)
